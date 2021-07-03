@@ -3,9 +3,14 @@
     display: block;
     background-color: #FAFAFA;
     padding: 20px 0px;
-    font-size: 16px;
+    font-size: 18px;
+    margin-bottom: 10px;
 }
 #friends-display-link i {
     opacity: 20%;
     padding-left: 10px;
+}
+
+.friends-screen {
+    padding: 0px var(--horizontal-space);
 }
