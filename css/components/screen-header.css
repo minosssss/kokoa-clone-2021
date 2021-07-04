@@ -33,3 +33,9 @@
   justify-content: center;
   align-items: center;
 }
+
+.screen__dot {
+  left: 75px;
+  bottom: 25px;
+  margin: 0px;
+}
