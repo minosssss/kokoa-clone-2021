@@ -37,5 +37,10 @@
 .screen__dot {
   left: 75px;
   bottom: 25px;
-  margin: 0px;
+}
+
+.screen-header__dot {
+  display: flex;
+  left: 125px;
+  bottom: 25px;
 }
